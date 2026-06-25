@@ -1,0 +1,14 @@
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 2rem;
+}
+.stat {
+  background: #0d1929;
+  border: 1px solid #1a2d47;
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+.stat-num { font-size: 22px; font-weight: 600; color: #60a5fa; }
+.stat-label { font-size: 11px; color: #4a6fa5; margin-top: 2px; text-transform: uppercase; letter-spacing: .5px; }

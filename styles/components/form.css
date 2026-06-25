@@ -1,0 +1,93 @@
+.form-card {
+    background: #0d1929;
+    border: 1px solid #1a2d47;
+    border-radius: 16px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.form-card-title {
+    font-size: 12px;
+    font-weight: 500;
+    color: #4a6fa5;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-bottom: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.form-card-title i {
+    font-size: 14px;
+    color: #3b82f6;
+}
+
+.field {
+    margin-bottom: 1rem;
+}
+
+.field label {
+    display: block;
+    font-size: 12px;
+    color: #4a6fa5;
+    margin-bottom: 6px;
+    font-weight: 500;
+}
+
+.field input,
+.field textarea {
+    width: 100%;
+    padding: 11px 14px;
+    background: #060d1a;
+    border: 1px solid #1a2d47;
+    border-radius: 10px;
+    color: #cbd5e1;
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+    transition: border-color .2s, box-shadow .2s;
+}
+
+.field input:focus,
+.field textarea:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, .12);
+}
+
+.field input::placeholder,
+.field textarea::placeholder {
+    color: #2a4060;
+}
+
+.field textarea {
+    resize: vertical;
+    min-height: 88px;
+}
+
+.btn-add {
+    width: 100%;
+    padding: 12px;
+    background: #1d4ed8;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: .5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: background .2s;
+    font-family: inherit;
+}
+
+.btn-add:hover {
+    background: #2563eb;
+}
+
+.btn-add i {
+    font-size: 16px;
+}

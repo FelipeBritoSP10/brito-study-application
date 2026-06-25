@@ -1,0 +1,50 @@
+.top-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2.5rem;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-icon {
+    width: 36px;
+    height: 36px;
+    background: #1a3a6e;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-icon i {
+    color: #60a5fa;
+    font-size: 18px;
+}
+
+.logo-name {
+    font-size: 17px;
+    font-weight: 600;
+    color: #e2e8f0;
+    letter-spacing: .3px;
+}
+
+.logo-name span {
+    color: #60a5fa;
+}
+
+.pill {
+    background: #0f2040;
+    border: 1px solid #1e3a5f;
+    border-radius: 20px;
+    padding: 5px 14px;
+    font-size: 11px;
+    color: #60a5fa;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}

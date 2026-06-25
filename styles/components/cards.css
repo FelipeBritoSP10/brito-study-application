@@ -1,0 +1,129 @@
+.list-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+
+.list-title {
+    font-size: 12px;
+    font-weight: 500;
+    color: #4a6fa5;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.count {
+    background: #0f2040;
+    border: 1px solid #1e3a5f;
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 11px;
+    color: #60a5fa;
+    font-weight: 600;
+}
+
+.study-card {
+    background: #0d1929;
+    border: 1px solid #1a2d47;
+    border-radius: 14px;
+    padding: 1.25rem;
+    margin-bottom: 12px;
+    transition: border-color .2s;
+}
+
+.study-card:hover {
+    border-color: #2a4a7f;
+}
+
+.sc-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.sc-subject {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sc-icon {
+    width: 32px;
+    height: 32px;
+    background: #0f2040;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.sc-icon i {
+    color: #60a5fa;
+    font-size: 15px;
+}
+
+.sc-name {
+    font-size: 14px;
+    font-weight: 500;
+    color: #e2e8f0;
+}
+
+.sc-date {
+    font-size: 11px;
+    color: #2a4060;
+    margin-top: 1px;
+}
+
+.sc-body {
+    font-size: 13px;
+    color: #94a3b8;
+    line-height: 1.65;
+    padding: 10px 12px;
+    background: #070e1c;
+    border-radius: 8px;
+    border-left: 2px solid #1d4ed8;
+    margin-bottom: 10px;
+}
+
+.sc-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sc-tag {
+    background: #0f2040;
+    border: 1px solid #1a2d47;
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 11px;
+    color: #3b82f6;
+}
+
+.btn-del {
+    background: none;
+    border: 1px solid #2a1a1a;
+    border-radius: 7px;
+    color: #7f3a3a;
+    font-size: 11px;
+    padding: 4px 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: all .15s;
+    font-family: inherit;
+}
+
+.btn-del:hover {
+    background: #1a0a0a;
+    border-color: #7f1d1d;
+    color: #f87171;
+}
+
+.btn-del i {
+    font-size: 13px;
+}
