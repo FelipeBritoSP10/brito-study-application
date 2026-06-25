@@ -108,12 +108,17 @@ Responsável pelo gerenciamento dos dados:
 ## 📁 Estrutura de Diretórios
 
 ```text
-brito-study/
+brito-study-application/
 │
 ├── index.html
 │
-├── css/
-│   └── style.css
+├── styles/
+│   └── components/
+│   ├── cards.css
+│   ├── empty.css
+│   ├── form.css
+│   ├── stats.css
+│   └── topbar.css
 │
 ├── js/
 │   ├── app.js
