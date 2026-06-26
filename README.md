@@ -189,11 +189,11 @@ Abra o arquivo `index.html` em qualquer navegador moderno.
 
 ### Felipe Brito
 
-Desenvolvedor Front-End e estudante de Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Full Stack, Mentor e estudante de Análise e Desenvolvimento de Sistemas.
 
-**GitHub:** https://github.com/FelipeBritoSP10
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeBritoSP10)
 
-**LinkedIn:** https://www.linkedin.com/in/felipe-brito-09a355285/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-brito-09a355285/)
 
 ---
 
