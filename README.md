@@ -16,6 +16,14 @@ O sistema foi criado com o objetivo de auxiliar estudantes no registro e organiz
 
 Além da funcionalidade prática, o projeto tem como foco a aplicação dos conceitos estudados em sala de aula, incluindo manipulação do DOM, modularização de código, persistência de dados e boas práticas de desenvolvimento Front-End.
 
+<div align="center">
+
+<a href="https://brito-study-application.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/_ACESSE_O_PROJETO_ONLINE-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Link para o Projeto">
+</a>
+
+</div>
+
 ---
 
 ## 🎯 Objetivos Acadêmicos
@@ -197,4 +205,10 @@ Desenvolvedor Full Stack, Mentor e estudante de Análise e Desenvolvimento de Si
 
 ---
 
-### 📚 Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento Web da Universidade Estácio de Sá, aplicando conceitos de HTML, CSS, JavaScript e organização de software.
+## ✅ Conclusão
+
+Este projeto acadêmico desenvolvido na disciplina de Desenvolvimento Web da Universidade Estácio de Sá consolidou conhecimentos essenciais de HTML, CSS, JavaScript e organização de software.
+
+- A experiência proporcionou não apenas a prática técnica, mas também o fortalecimento de habilidades de planejamento, estruturação e aplicação de boas práticas no desenvolvimento de aplicações web.
+
+- Representa um passo importante na jornada acadêmica e profissional, reafirmando o compromisso com a excelência e evolução contínua.
